@@ -5,7 +5,7 @@ on:
       - '**'
     tags-ignore:
       - v**
-    workflow_call:
+  workflow_call:
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
