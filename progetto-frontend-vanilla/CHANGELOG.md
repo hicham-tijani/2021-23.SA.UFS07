@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.6.0...v1.7.0) (2022-05-31)
+
+
+### Features
+
+* dependencies ([804919a](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/804919ab42d438a43def9013e633d2d9a9f7048d))
+
 ## 1.6.0 (2022-05-31)
 
 
