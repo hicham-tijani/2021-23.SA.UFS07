@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.1](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.7.0...v1.7.1) (2022-06-06)
+
+
+### Bug Fixes
+
+* surge ([af50b2d](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/af50b2d8d60393b47db94cff1645a0dfedbf6990))
+
 ## [1.7.0](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.6.0...v1.7.0) (2022-05-31)
 
 
