@@ -4,32 +4,37 @@ import PropTypes from 'prop-types';
 /**
  * Primary UI component for user interaction
  */
-export const Button = ({ label, onClick, type }) => {
+export const Button = ({ placeholder, onData, type }) => {
+  function onData(InputEevent){
+
+    console.log=("Input.onInput",InputEevent);
+    if(typeof onData== ' function'){
+      onData(InputEevent.target.value)
+    }
+
+  }
   return (
-    <button
-      onClick={onClick}
-      type={type}
+    <input
+      onInput={onInput}
+      placeholder={placeholder}
     >
       {label}
-    </button>
+    </input>
   );
 };
 
-Button.propTypes = {
-  /**
-   * Button contents
-   */
-  label: PropTypes.string.isRequired,
-  /**
-   * Optional click handler
-   */
-  onClick: PropTypes.func,
-  type: PropTypes.string,
+Input.propTypes = {
+placeholder: Prototypes.string.isRequired,
+onData: PropTypes.func,
+isValid: propTypes.bool,
+type: PropTypes.string,
+
 };
 
-Button.defaultProps = {
-  onClick: undefined,
-  type: 'button',
+Input.defaultProps = {
+type: 'text',
+onData: undefined,
+isValid: undefined,
 };
 
 
