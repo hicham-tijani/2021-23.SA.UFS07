@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.7.1...v1.8.0) (2022-06-06)
+
+
+### Features
+
+* export package ([5f8c570](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/5f8c570e8c6548cf6ad9b333787c6e9f53f9fa8b))
+
+
+### Bug Fixes
+
+* export package ([960ebc9](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/960ebc9e044126b6dff3482fa17752f555ba60f8))
+
 ### [1.7.1](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.7.0...v1.7.1) (2022-06-06)
 
 
