@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.8.0...v1.9.0) (2022-06-10)
+
+
+### Features
+
+* buttonjsx ([5f8fcb7](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/5f8fcb7effe32eab669bd18ad86d973bddc714f7))
+* buttonjsx ([5221e1f](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/5221e1faea806394820925aeeb226f7b68f66645))
+
+
+### Bug Fixes
+
+* type button ([319c571](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/319c5716a31637cc2ca8abaa9e4db00f53d41f0b))
+
 ## [1.8.0](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.7.1...v1.8.0) (2022-06-06)
 
 
