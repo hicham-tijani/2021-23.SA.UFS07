@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.1](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.10.0...v1.10.1) (2022-06-10)
+
+
+### Bug Fixes
+
+* input ([ec8b423](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/ec8b423e5a7f000a0b4e4ef1b5195bc747e5c10b))
+* version ([f9e6126](https://github.com/hicham-tijani/2021-23.SA.UFS07/commit/f9e6126cd0c20c33d28b556290184680d0db07db))
+
 ## [1.10.0](https://github.com/hicham-tijani/2021-23.SA.UFS07/compare/v1.9.0...v1.10.0) (2022-06-10)
 
 
